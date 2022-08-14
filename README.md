@@ -1,3 +1,11 @@
+# React-Components
+This project is part of a series of small exercises for learning and practicing React.
+
+Project screenshot:<br/>
+![project screnshot](proj-img.png)
+
+---
+
 # Basic Props Example
 ![project image](proj-img.png)
 
