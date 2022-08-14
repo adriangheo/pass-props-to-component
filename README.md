@@ -1,4 +1,4 @@
-# React-Components
+# Pass Props to Component
 This project is part of a series of small exercises for learning and practicing React.
 
 Project screenshot:<br/>
